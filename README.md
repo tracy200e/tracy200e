@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, JavaScript, Python and Lua**
 
-- ⚡ Fun fact **I organise tech conferences in Australia**
+- ⚡ Fun fact: **I organise tech conferences in Australia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
