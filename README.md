@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tracy Chen.</h1>
 <h3 align="center">An enthusiastic software engineering student from Sydney, Australia.</h3>
 
-- 🔭 I’m currently working on [my 'What To Wear' React project](https://github.com/tracy200e/se_project_react)
+- 🔭 I’m currently working on my ['What To Wear' React project](https://github.com/tracy200e/se_project_react) and my ['Pawfect Days' React project](https://github.com/tracy200e/pawfect_days)
 
 - 🌱 I’m currently learning **Fullstack and all kinds of programming schools of thought**
 
 - 👩🏻‍🏫 I volunteered as a section leader at [Code in Place in 2021 and 2023](https://digitalcredential.stanford.edu/check/4F3F510AF229C1B127860B51C8CC2B32026F9E1681C753A6D3639C6EB59A94D0WXlNZlp0UHQ3MXNIU2lFUWN6KzJUUkQxQ1ptWU5mMzR6UWJvTUlFOHNYSmk2alRp)
 
-- 🤝 I’m looking for work experiences **in Web Development**
+- 🤝 I’m looking for work experiences in **Frontent/Backend Software Engineering**
 
-- 💬 Ask me about **React, JavaScript, Python and Lua**
+- 💬 Ask me about **React, JavaScript, Python and Unity**
 
-- ⚡ Fun fact: **I organise tech conferences in Australia**
+- ⚡ Fun fact: **I organise one of the largest independent tech conferences in Australia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
