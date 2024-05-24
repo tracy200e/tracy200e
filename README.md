@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tracy Chen.</h1>
 <h3 align="center">An enthusiastic software engineering student from Sydney, Australia.</h3>
 
-- 🔭 I’m currently working on my ['What To Wear' React project](https://github.com/tracy200e/se_project_react) and my ['Pawfect Days' React project](https://github.com/tracy200e/pawfect_days)
+- 🔭 I’m currently working on my ['Pawfect Days' React project](https://github.com/tracy200e/pawfect_days) and my ['What To Wear' React project](https://github.com/tracy200e/se_project_react)
 
 - 🌱 I’m currently learning **Fullstack and all kinds of programming schools of thought**
 
