@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, JavaScript, Python and Unity**
 
-- ⚡ Fun fact: **I organise one of the largest independent tech conferences in Australia: [YOW! Conferences](https://yowcon.com/)**
+- ⚡ Fun fact: **I organise one of the largest independent tech conferences in Australia, [YOW! Conferences](https://yowcon.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
